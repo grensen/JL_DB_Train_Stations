@@ -1,0 +1,15 @@
+C:\Users\gren\source\repos\JL_DB_Stations\JL_DB_Stations\obj\Debug\JL_DB_Stations.csprojAssemblyReference.cache
+C:\Users\gren\source\repos\JL_DB_Stations\JL_DB_Stations\obj\Debug\MainWindow.g.cs
+C:\Users\gren\source\repos\JL_DB_Stations\JL_DB_Stations\obj\Debug\App.g.cs
+C:\Users\gren\source\repos\JL_DB_Stations\JL_DB_Stations\obj\Debug\JL_DB_Stations_MarkupCompile.cache
+C:\Users\gren\source\repos\JL_DB_Stations\JL_DB_Stations\obj\Debug\JL_DB_Stations_MarkupCompile.lref
+C:\Users\gren\source\repos\JL_DB_Stations\JL_DB_Stations\bin\Debug\JL_DB_Stations.exe.config
+C:\Users\gren\source\repos\JL_DB_Stations\JL_DB_Stations\bin\Debug\JL_DB_Stations.exe
+C:\Users\gren\source\repos\JL_DB_Stations\JL_DB_Stations\bin\Debug\JL_DB_Stations.pdb
+C:\Users\gren\source\repos\JL_DB_Stations\JL_DB_Stations\obj\Debug\MainWindow.baml
+C:\Users\gren\source\repos\JL_DB_Stations\JL_DB_Stations\obj\Debug\JL_DB_Stations.g.resources
+C:\Users\gren\source\repos\JL_DB_Stations\JL_DB_Stations\obj\Debug\JL_DB_Stations.Properties.Resources.resources
+C:\Users\gren\source\repos\JL_DB_Stations\JL_DB_Stations\obj\Debug\JL_DB_Stations.csproj.GenerateResource.cache
+C:\Users\gren\source\repos\JL_DB_Stations\JL_DB_Stations\obj\Debug\JL_DB_Stations.csproj.CoreCompileInputs.cache
+C:\Users\gren\source\repos\JL_DB_Stations\JL_DB_Stations\obj\Debug\JL_DB_Stations.exe
+C:\Users\gren\source\repos\JL_DB_Stations\JL_DB_Stations\obj\Debug\JL_DB_Stations.pdb
